@@ -1,19 +1,19 @@
 
-![Port](https://okdiario.com/img/2018/11/28/codigo-html-655x368.jpg)
-
-<h1 align="center"> Hello World! 👋 :computer: </h1>
+<h1 align="center"> Hello World! 👋 </h1>
 
   
-  
-Hi,my name is Dylan and I'm a programming student, currently studyng for being Full Stack Developer.
+Hi my name is Dylan and I'm a programming student, currently studyng for being Full Stack Developer.
 
-i'm capable of using this techs:
+I developed on my own a Dogs App that you can check in my public repositories. Now i'm working in a new group proyect in which we are applying the SCRUM methodology. 
+I cant wait for finish it and release it here! it will be soon!
+
+i'm currently capable of using this techs:
 
 💻 Techs 💻
 
 -JavaScript
 
--React
+-React 
 
 -Redux
 
