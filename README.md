@@ -1,22 +1,38 @@
 
-  
-<p> 
-<img align="center" src="https://okdiario.com/img/2018/11/28/codigo-html-655x368.jpg" />
-</p>
+![Port](https://okdiario.com/img/2018/11/28/codigo-html-655x368.jpg)
+
 <h1 align="center"> Hello World! 👋 :computer: </h1>
 
   
-<div>
-  <p>
-    Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-    Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
-  </p>
-  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
-</div>
+  
+Hi,my name is Dylan and I'm a programming student, currently studyng for being Full Stack Developer.
 
+i'm capable of using this techs:
 
+💻 Techs 💻
 
-<h2> Me podes contactar en: </h2>
+-JavaScript
+
+-React
+
+-Redux
+
+-PGAdmin
+
+-PostgreSQL
+
+-Express
+
+-Sequelize
+
+-Node JS
+
+-HTML
+
+-CSS
+    
+    
+<h2> Contact me: </h2>
 
 <p>
     <a href="https://www.linkedin.com/in/dylanjuresadeveloper/">
