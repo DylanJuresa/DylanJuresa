@@ -1,5 +1,17 @@
 ### Hi, I'm Dylan 👋
 
+Full-Stack | Software engineer 🤖. (In progress)
+
+Holberton School Student. 👨‍💻
+
+About me
+❤️ Drawing | 🖤 Hip-Hop | 💙 Programming
+
+🌎 I'm from Medellin - Colombia
+🎮 I like to play video games
+💎 I love to customize everything lol
+Social media 📭
+
 <!--
 **DylanJuresa/DylanJuresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
