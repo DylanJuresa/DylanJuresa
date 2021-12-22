@@ -1,6 +1,10 @@
-![Port](https://okdiario.com/img/2018/11/28/codigo-html-655x368.jpg)
+
+  
+  
+<img src="https://okdiario.com/img/2018/11/28/codigo-html-655x368.jpg" >
 <h1 align="center"> Hello World! 👋 :computer: </h1>
 
+  
 <div>
   <p>
     Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
@@ -10,42 +14,6 @@
 </div>
 
 
-<h2> Back To The 90's </h2>
-
-![btt90s](https://user-images.githubusercontent.com/58223692/95638842-7aec8a00-0a6c-11eb-9643-20296c915a47.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-
-<hr/>
-
-<h2> BankAppMe </h2>
-
-![BankAppMe](https://user-images.githubusercontent.com/58223692/95639279-3661ee00-0a6e-11eb-9976-7d597696652d.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React-Native</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
-
-<hr/>
 
 <h2> Me podes contactar en: </h2>
 
@@ -58,13 +26,15 @@ Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
     </a>
     <a href="https://twitter.com/benjamin_gnr">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
-    </a>
+    </a>![68747470733a2f2f6f6b64696172696f2e636f6d2f696d672f323031382f31312f32382f636f6469676f2d68746d6c2d363535783336382e6a7067](https://user-images.githubusercontent.com/88736487/147015922-18d5d30b-91f0-42ba-8e1f-8fcc4dbc6469.jpg)
+
     <a href="https://github.com/tomas0011">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
 <p/>
 
 <hr/>
+
 
 
 
